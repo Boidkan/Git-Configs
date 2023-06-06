@@ -2,3 +2,4 @@ git config --global alias.co checkout
 git config --global alias.cod 'checkout develop'
 git config --global alias.b 'checkout -b'
 git config --global alias.ac 'commit -am'
+git config --global alias.plog 'log --graph --oneline --decorate'
